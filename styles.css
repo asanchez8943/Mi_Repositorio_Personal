@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  #bookForm {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  #bookForm .form-control {
+    border-radius: 5px;
+  }
+  
+  button {
+    border-radius: 5px;
+  }
+  
